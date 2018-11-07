@@ -1,0 +1,7 @@
+*.pt
+_rmme*
+.vscode/
+__pycache__/
+data/
+logs/
+runs/
